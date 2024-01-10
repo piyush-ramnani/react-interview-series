@@ -10,4 +10,4 @@ Build an image slider with the following features:
 - The user clicks on the next button to see the next image.
 - The image looping should be infinite
 
-![Alt text](./Screenshot%202024-01-10%20at%201.36.50%20PM.png)
+![3 Image carousal components](./Screenshot%202024-01-10%20at%201.36.50%20PM.png)
