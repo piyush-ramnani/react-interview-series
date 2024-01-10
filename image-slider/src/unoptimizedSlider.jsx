@@ -15,7 +15,7 @@ function UnoptimizedSlider() {
 
   return (
     <div className="">
-      <h1>Image sliders</h1>
+      <h1>Image Carousal</h1>
       <div className="border border-yellow rounded-lg mt-10">
         <div className="flex justify-center items-center m-8">
           <button onClick={handlePrevious} className="px-4 py-2 mx-5">
